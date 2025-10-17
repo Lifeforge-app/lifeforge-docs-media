@@ -34,4 +34,4 @@ This repository is part of the [LifeForge project](https://github.com/lifeforge-
 
 ---
 
-Made with ❤️ for the LifeForge community
+Made with ❤️ for the LifeForge ecosystem.
